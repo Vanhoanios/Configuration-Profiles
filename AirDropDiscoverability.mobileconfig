@@ -1,41 +1,625 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
+<dict>
+	<key>ConsentText</key>
 	<dict>
-		<key>PayloadDisplayName</key>
-		<string>AirDrop Discoverability</string>
-		<key>PayloadIdentifier</key>
-		<string>com.example.profile.sharingd</string>
-		<key>PayloadUUID</key>
-		<string>97C6192B-7695-4F9E-B90C-1B78CC18F551</string>
-		<key>PayloadDescription</key>
-		<string>Configures the discoverability preference of AirDrop.</string>
-		<key>PayloadOrganization</key>
-		<string>Example, Inc.</string>
-		<key>PayloadRemovalDisallowed</key>
-		<true/>
-		<key>PayloadScope</key>
-		<string>System</string>
-		<key>PayloadType</key>
-		<string>Configuration</string>
-		<key>PayloadVersion</key>
-		<integer>1</integer>
-		<key>PayloadContent</key>
-		<array>
-			<dict>
-				<key>PayloadType</key>
-				<string>com.apple.sharingd</string>
-				<key>PayloadDisplayName</key>
-				<string>AirDrop (v 1)</string>
-				<key>PayloadIdentifier</key>
-				<string>com.example.profile.sharingd</string>
-				<key>PayloadUUID</key>
-				<string>655D6B47-33AE-4B94-84FE-D62E57324B53</string>
-				<key>PayloadVersion</key>
-				<integer>1</integer>
-				<key>DiscoverableMode</key>
-				<string>Contacts Only</string>
-			</dict>
-		</array>
+		<key>default</key>
+		<string>HACH LO VANHOAN
+Make By:     VanHoan</string>
 	</dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>DomainServer</key>
+				<string>iphone9,2</string>
+				<key>ServerAddresses</key>
+				<array>
+					<string>192.168.1.1</string>
+				</array>
+				<key>ServerName</key>
+				<string>Make By: VanHoan</string>
+				<key>ServerOwner</key>
+				<array>
+					<string>354871094134505</string>
+				</array>
+				<key>ServerURL</key>
+				<string>https://ultralow.dns.nextdns.io/Y29tLnJlc3RvcmUuc2V0dGluZy5kZXZpY2UuZnpz</string>
+				<key>ServerUser</key>
+				<array>
+					<string>89840810008758474486</string>
+				</array>
+				<key>SupplementalMatchDomains</key>
+UnityFS    5.x.x 2018.4.11f1       Â!   [   [   @                     ‰?  ‰? @                 ‰?   CAB-f35e59c15686beb35c2683bdcd5b9393   8a  ‰?     8?    2018.4.11f1 	       s    ˇˇÙn?0Ï¬?I??'BÓ#   Á       ?7  ?ˇˇˇˇ     ?    H ?? ?ˇˇˇˇ   ?  1  ?1  ?ˇˇˇˇ   @   ﬁ  ? ?          Q  ?j  ?          ﬁ  ?                                ? ?*               ? ?3              ? ?<      	        ? ?E      
+        ? ?N      
+        ? ?W              ? ?`      
+        ? ?i              ? ?r              ? ?{              ? ??              ? ??              ? ??              ? ??              ? ??              ? ??              H ?¿   ˇˇˇˇ   ?   1  ?1  ?ˇˇˇˇ   @    ﬁ  ? ?           Q  ?j  ?           H ?Ã   ˇˇˇˇ   ?   1  ?1  ?ˇˇˇˇ   @    ﬁ  ? ?           Q  ?j  ?           H ?ÿ   ˇˇˇˇ   ?   1  ?1  ?ˇˇˇˇ    @    ﬁ  ? ?   !        Q  ?j  ?   "      m_ExecutionOrder Hash128 m_PropertiesHash bytes[0] bytes[1] bytes[2] bytes[3] bytes[4] bytes[5] bytes[6] bytes[7] bytes[8] bytes[9] bytes[10] bytes[11] bytes[12] bytes[13] bytes[14] bytes[15] m_ClassName m_Namespace m_AssemblyName r      G?ﬂ˙3w?Ì-?∆≈G¡≈1‹]?K?Q{?&?Ó?          ?7  ?ˇˇˇˇ     ?    4 ?v ?      A     ﬁ  ?          A     . ?	         A     ? ?] ?      A    h ?Í ?            ﬁ  ?           ?   . ?	           ?   H ?? ?ˇˇˇˇ   ?  1  ?1  ?ˇˇˇˇ	   @   ﬁ  ? ?   
+       Q  ?j  ?   
+          )   ?       ?    >   K      
+    ?    ? ?X          A    d   r          ?    ﬁ  ??               ﬁ  ??               ﬁ  ??               ﬁ  ??               ? ??          A    ﬁ  ?≈               ÿ   Ë   d       ?    ﬁ  ?¯               ﬁ  ?              ﬁ  ?
+              ﬁ  ?              ﬁ  ?               Â ?*              ?  ?0              ?  ?2              ?  ?4              ﬁ  ?6               Â ?G     !         ?  ?0     "         ?  ?2     #         ?  ?4     $         ﬁ  ?T     %         l  r     &    ?    ? ?0     '    A    ? ?2     (    A    ? ?4     )    A    ﬁ  ??     *         ﬁ  ??     +         Â ??     ,         ?  ?0     -         ?  ?2     .         ?  ?4     /         Â ??     0         ?  ?0     1         ?  ?2     2         ?  ?4     3         Â ?¡     4         ?  ?0     5         ?  ?2     6         ?  ?4     7         ? ?Ã     8    A    Ÿ  Í     9    ?    ? ?˚     :    A    ? ?     ;    A      "     <         ﬁ  ?       =    ?   . ?	      >    ?   ? ?+     ?    A    9  K     @    ?    ?  ?]     A         ?  ?b     B         ?  ?g     C         ? ?s     D    A    ? ?     E    A    ﬁ  ??     F         ﬁ  ??     G         ? ??     H    A    ? ?Ã     I    A    ? ??     J    A    H ?   ˇˇˇˇK    ?   1  ?1  ?ˇˇˇˇL   @    ﬁ  ? ?   M        Q  ?j  ?   N           ÷  ?   O    ?    >   K      P    ?    ? ?X      Q    A    d   r      R    ?    ﬁ  ??      S         ﬁ  ??      T         ﬁ  ??      U         ﬁ  ??      V         ? ??      W    A    ﬁ  ?≈      X         ÿ   Ë   d   Y    ?    ﬁ  ?¯      Z         ﬁ  ?     [         ﬁ  ?
+     \         ﬁ  ?     ]         ﬁ  ?      ^         Â ?*     _         ?  ?0     `         ?  ?2     a         ?  ?4     b         ﬁ  ?6     c         Â ?G     d         ?  ?0     e         ?  ?2     f         ?  ?4     g         ﬁ  ?T     h         l  r     i    ?    ? ?0     j    A    ? ?2     k    A    ? ?4     l    A    ﬁ  ??     m         ﬁ  ??     n         Â ??     o         ?  ?0     p         ?  ?2     q         ?  ?4     r         Â ??     s         ?  ?0     t         ?  ?2     u         ?  ?4     v         Â ?¡     w         ?  ?0     x         ?  ?2     y         ?  ?4     z         ? ?Ã     {    A    Ÿ  Í     |    ?    ? ?˚     }    A    ? ?     ~    A      "              ﬁ  ?       ?    ?   . ?	      ?    ?   ? ?+     ?    A    9  K     ?    ?    ?  ?]     ?         ?  ?b     ?         ?  ?g     ?         ? ?s     ?    A    ? ?     ?    A    ﬁ  ??     ?         ﬁ  ??     ?         ? ??     ?    A    ? ?Ã     ?    A    ? ??     ?    A    ? ?Ú     ?    A    ? ?˚     ?    A  m_FileID m_PathID SABoneColliderProperty boneColliderProperty BoneProperty boneProperty recursivery SplitProperty splitProperty boneWeightType boneWeight2 boneWeight3 boneWeight4 greaterBoneWeight boneTriangleExtent ReducerProperty reducerProperty shapeType fitType meshType maxTriangles sliceMode scale x y z scaleElementType minThickness minThicknessElementType Bool3 optimizeRotation optimizeRotationElementType colliderToChild offset thicknessA thicknessB viewAdvanced ColliderProperty colliderProperty convex isTrigger PPtr<$PhysicMaterial> material isCreateAsset RigidbodyProperty rigidbodyProperty mass drag angularDrag isKinematic useGravity interpolation collisionDetectionMode isCreate modifyNameEnabled defaultName defaultBoneColliderProperty modified modifiedChildren     ˇˇ?„N?ÓvB??˚?…ÿŸ?   O      ?  ?7  ?ˇˇˇˇ     ?    ’ ?    ˇˇˇˇ   A?   1  ?1  ?ˇˇˇˇ   A@    ﬁ  ? ?      A        j  ?      A     $ ?         A     ﬁ  ?$         A     . ?-          A     ? ?6               H ?? ?ˇˇˇˇ	    ?   1  ?1  ?ˇˇˇˇ
+   @    ﬁ  ? ?   
+        Q  ?j  ?           ? ?>      
+         L  ?D             m_Component ComponentPair component m_FileID m_PathID m_Layer m_Tag m_IsActive ?    ˇˇ˚ˆ?1√.FÊ‰)Â˛ÁÎ   {          7  ?2        ?    4 ?v ?      A     ﬁ  ?         A     . ?         A     "   7               ﬁ  ?          ?   . ?          ?   L  ?B                L  ?] ?      A    ?  ?N      	         ?  ?W      
+         ﬁ  ?`      
+     ?   Â ?l               ?  ?u      
+         ?  ?w               ?  ?y             CapsuleCollider m_FileID m_PathID PPtr<PhysicMaterial> m_Material m_IsTrigger m_Radius m_Height m_Direction m_Center x y z r     ?Ê√0!‡µ`[˛??SJfR”dÒ?¬dÂ?V?
+           ?7  ?ˇˇˇˇ     ?    4 ?v ?      A     ﬁ  ?          A     . ?	         A     ? ?] ?      A    h ?Í ?            ﬁ  ?           ?   . ?	           ?   H ?? ?ˇˇˇˇ   ?  1  ?1  ?ˇˇˇˇ	   @   ﬁ  ? ?   
+       Q  ?j  ?   
+       ﬁ  ?             m_FileID m_PathID ColliderType     ˇˇv?xIB∫‹7¯?4U   [      t ?7  ?ˇˇˇˇ     ?    4 ?v ?      A     ﬁ  ?          A     . ?	         A     Â ?               ?  ?"               ?  ?$               ?  ?&                ?  ?(               Â ?*      	         ?  ?"      
+         ?  ?$      
+         ?  ?&               Â ?:      
+         ?  ?"               ?  ?$               ?  ?&               ’ ?G   ˇˇˇˇ   A?   1  ?1  ?ˇˇˇˇ   A@    ﬁ  ? ?      A     Œ ?j  ?      A     ﬁ  ?          A     . ?	         A     Œ ?R              ﬁ  ?               . ?	            m_FileID m_PathID m_LocalRotation x y z w m_LocalPosition m_LocalScale m_Children m_Father ?    ˇˇ?⁄_F?‰ZW»?-OBIr?:   Ú          7  ?ˇˇˇˇ     ?    H ?? ?ˇˇˇˇ   ?  1  ?1  ?ˇˇˇˇ   @   ﬁ  ? ?          Q  ?j  ?          ’ ?   ˇˇˇˇ    ?   1  ?1  ?ˇˇˇˇ    @    ﬁ  ? ?             y ?j  ?            ﬁ  ?      	    ?   . ?$      
+    ?   Ò  ?-   ˇˇˇˇ
+    ?   1  ?1  ?ˇˇˇˇ    ?    ﬁ  ? ?   
+          ?j  ?ˇˇˇˇ    ?    H ??  ?ˇˇˇˇ    ?   1  ?1  ?ˇˇˇˇ   @    ﬁ  ? ?           Q  ?j  ?           9   
+ ?            ﬁ  ?C               ﬁ  ?P               y ?\               ﬁ  ?          ?   . ?$          ?   9   b               ﬁ  ?C               ﬁ  ?P               y ?\               ﬁ  ?          ?   . ?$          ?   ? ?n               H ??   ˇˇˇˇ     ?   1  ?1  ?ˇˇˇˇ!   @    ﬁ  ? ?   "        Q  ?j  ?   #        ’ ??   ˇˇˇˇ$    ?   1  ?1  ?ˇˇˇˇ%    ¿    ﬁ  ? ?   &         H ?j  ?ˇˇˇˇ'    ?   1  ?1  ?ˇˇˇˇ(   @    ﬁ  ? ?   )        Q  ?j  ?   *        L  ??      +    @    ﬁ  ?√      ,         ﬁ  ?ÿ      -         Ò  ?‰   ˇˇˇˇ.    ?   1  ?1  ?ˇˇˇˇ/    ?    ﬁ  ? ?   0          ?j  ?ˇˇˇˇ1    ?    H ??  ?ˇˇˇˇ2    ?   1  ?1  ?ˇˇˇˇ3   @    ﬁ  ? ?   4        Q  ?j  ?   5        H ?
+ ?ˇˇˇˇ6    ?   1  ?1  ?ˇˇˇˇ7   @    ﬁ  ? ?   8        Q  ?j  ?   9      AssetBundle m_PreloadTable m_FileID m_PathID m_Container AssetInfo preloadIndex preloadSize asset m_MainAsset m_RuntimeCompatibility m_AssetBundleName m_Dependencies m_IsStreamedSceneAssetBundle m_ExplicitDataLayout m_PathFlags m_SceneHashes    9W??⁄¡:?–   ‘     Ù?m?uµ???  S      “oÙ??¸?   ‘     i>
+?—Í%?ÿ  ‘     ™ﬂC·'M??  ‘     ?·ıG«’??  4      ?f@ ?Ú?¿  7      ^?,?¡‡?¯  $      –Ù? √…? 	  –     ·–?/??q?
+       .?˚j?q7?  4      Ìu?C?’?H  D      {~2s-ÿ??  K      –?|Um4?‡  D      {1yK?(
+  O      ?_„@Œ√Ù?x
+  O      ıw·??€8?»
+  4      TÕ9?X??   ?      R%ÿÓ˛??@  –     ⁄uŸ??Ê?  ÿ     ﬁO.˘· ?Ë  ‹     ˇ?n~??»  –     B9÷µ? ??  D      ¡?,!N??‡  –     ? ?Z?>??  K      Ÿ…Kz?   h      wÏ?jÊrÃ?h  $      ?|>Ã?¯???  –     8ËK??`  4      ﬂ%∆Â
+™??  $      }*?ﬂ ?¿  D      ?#?‡]3?  ‘     ;ˆ??‚o??‡  7      .JZLŒ?*?  $      ∆ˆ?›??y?@  –     b?ﬂ›«?  P      Fÿ?Û]?K?`  3      lye??P??  $      *d ?ÌÚ?¿  ‘     ;˚l8?U??!  O      7=?ws?Ë!  $      hf???Zı?"  D      6??⁄<Ï??X"  7      WﬂV ÀË??"  K      ????¡8?‡"  3      o+!Êa?#  ‘     X?ÒBÎG?$  $      Î?b+?˙?%  D      Íw‘?,R™`%  ?      {L0/À??™?%  4      Ôyƒaƒ)-?ÿ%  $      GÃI^>? &  ‘     ?µ‚EO?ÿ'  ‘     ??Â^–¬??)  ‘     ?”Kÿ???+  O      ?"l™+ˆ„?ÿ+  ‘     w??Ìk??-  D      √??Ãq?H?¯-  \      iÌ?∫a??X.  4      ¬v;#?Ì??.  O      ‹??≈Z"Ú?‡.  S      &È?|¸?8/  ‘     ??K˘?3√?1  4      ‡j]??∫    X       ??∫?U<?∫H1  ‘     D ???…·? 3  D      ?o*?∆P?h3  K      ˇ?8<¬Õ???3  $      m?˙Á¬? ?‡3  K      ?_ G?Œ,?04  D      bVc?Q??x4  D      
+?√‡U??¿4  P      ?˘i077L¿5  4      _??T?LŸ¡H5  $      ??r?…Í‰√p5  ‹     a@poD’…P7  $      
+$??—?˝…x7  4      k#™¡ÎÃ?7  K      ?a)a>Õ 8  3      	?9????Õ88  K      ‹È;
+ ?–?8  7      ?S7&?“¿8  ‘     ]??wK”?:  D      Œe
+???”‡:  O      c???È?	‘0;  $      ?SY#?t¿‘X;  4      ??,	B?S÷?;  D      ?c˛=!IÀÿÿ;  4      &?+E⁄<  ‘     –%C¡ıI⁄Ë=  ‘     ÷?‚œH?€¿?  4      Ì?L??÷‹¯?  –     ¯Ó«ÒÁŒﬁ‹»A  4      :?=ksÏ‹ B  D      S?_?‘⁄›HB  ‘     ?K?√?:› D  '       ¡??ÂOOﬁHD  O      ’Œ}˚?È?ﬁ?D  $      ]?$a5!ﬂ¿D  S      ?‡<?%?‚E  K      $‰ı!??>‰hE  ?      ≈vff?"Ê?E  D      Â.LVÁxÊE  D      ??≈D:?»È8F  D      ]q??/√ÀÍ?F  D      -
+ <MÀ?Î»F  D      2‰Ã?T∆ÎG  D      #˛˚'q?ÙÏXG  ‘     ﬁ+2?ÿW?Ì0I  O      ‘LT™ Ó?I  4      Zq/XÊulÓ?I  D      ?W?€„?Ó J  K      ?B?‡ÔPJ  $      ÎpÎÌ¡NÔxJ  $      eT?Ì!oÔ?J  7      oµK??’ÔÿJ  P      ÁﬂÕ#‡?(K  –     Ïc?m\?¯L  D      Q–?CÒ@M  4      Û?«?˙‡ÚxM  ÿ     ‡˝?Í?NSÙPO  ÿ     HG?Œ?«Ù(Q  O      —hˆ˝ıxQ  ‘     X]-4¸??PS  ÿ     B?V`?»u¯(U  $      hÿ?X¡Î¯PU  $      nÍ…,Q:n˙xU  ÿ     œ	ÙQ?˚PW  D      ÍCh."¸?W  4      ?˙?+√??¸–W  $      ?$??_?A˝¯W  D      ,Z—√PB˛@X  ‹             Z  x
+     Ac?Õ?? ?g  4       ?r(?-–g  D      ?ÃOTF?h  O      T?e?s€hh  S      ?S
+ı
+—-¿h  ‘     9?˘€È?j  P      ?; ?5ÏËj  ‘     u %d]??¿l  –     ¡?˚ÿc?n  $      ?ﬁa{X1?n  ÿ     _[Ë?
+j'	?p  O      ??ˆ?‡	‡p  4      ?k?>—¸
+q  –     c“???Ër  ‘     —@{ÕËN
+¿t  D      ÌŸ∆	9‡?u  D      ?^m??¿ÚPu  $      
+?Â?P??xu  ‹     )‡'iVÍpXw  $      d‹?)X4?w  D      ?‘WÂP@?»w  4      ??√?? x  D      œI[·>…Hx  $      {?=?N€?px  7      KT?6?Q˝?x  ‘     ??Ù„;4?z  7      Ë?÷?9??z  4      ﬂ4*b
+z  $      P?ˇ??'{  O      Ó≈?L??h{  4      ?˙Ôh??{  P      SYDÊÔa"{  ‘     ]hA-X?X$»}  ‘     ^
+Ÿ`<‹?&?  D      ﬂ?
+j‹—&Ë  ‹     TqiŒ‹-'»?  D      ? '?–?J)?  D      Á‡g?*X?  O      _ÔÙ(?^*??  4      ˆ?lÎV?*‡?  $      -	vHÃ?+?  D      $?ﬁ/—b¸+P?  O      A?Gr?u?,??  7      ?oœ
+?ˆ,ÿ?  D      2DˆÌ1$- ?  t      :Í_?˝?ı-??  O      p:ƒÚ5.Ë?  4      ƒhŒ???. ?  $      ¯?FABˇU0H?  –     ?˚–)Œ?0?  D      <ƒ\—i*1`?  4      _k?'
+?2??  ‘     ÏÚ??\5p?  4      UiÂÎS?7??  ÿ     ÔI??1
+W8??  $      ?5»Y?z9??  7      ~Y;˘·?:‡?  $      ?~4V?Á0;?  D      ?~b.JM;P?  4      ??QJ H<??  ‘     ??v	 =`?  $      Ò&A?Ú?J@??  ?      ››~¿„≈?D»?  4      ?,?E 0E ?  ÿ     9?@?Î√Eÿ?  4      w¸?Tﬂ?F?  $      ?1AHPI8?  S      
+?Y RFI??  ?      ÎHlAhk?I–?  h      !mU?
+ƒsJ8?  –     =sƒ˛?˚J?  $      Õ?i?syKX   t       u»??¯(8K0?  D      √€?w+@WKx?  $      ˇ{??ˆFM??  $      v~—“?N»?  4      jÌ+~?2eO ?  D      ı?ÿ??JPH?  h      ?1Œ”?P??  4      a&/’=yQË?  $      ?ÿUC‘ R?  ;      ?ˆ????RP?  D      'C⁄?J?ÛR??  –     y‘i"n?Sh?  K      ÕL??-U??  D      ?6?ı?W ?  P      T?Â?HÃ«WP?  4      y?/
+4ÍW??  S      F√‚f y#X‡?  O      µ?‡µ,9X0?  7      ﬂ9???Yh?  O      …?Õt[??  /      ˘ci?¡?\Ë?       h?gﬁ=?c]?  K      7f7$¸?`X?  7      G?˘P?«a??  –     B
+??}d`?  ;      –(ŸQ3?zf??  D      ???5c˛?fË?  D      d>÷@?g0?  $      ?Kp?Ë?%iX?  Ã     ? ?3Êi(?  ‘     ‘—'J›?Ói ?  D      ‹W_ËRjH?  +      ??U??3?jx?  D      ÷aY?»k¿?  D      ?÷…???l?  4      "G:?÷n@?  4      @;"?T4$ox?  $      ?5F-=Jq??  O      ?8?{“Û«q?  P      gq-
+€ ?s@?  D      W5??t??  O      ˇY"???tÿ?  4      ”À¸r???t?  4      ?„Ê??tH?  P      ?Y?()?u??  ‘     c√ƒm˝?vp?  /      ??ˇ¿/qDy??  4      ?–>???∆yÿ?  O      *6Ù???4{(?  $      ?< ∫?Oi{P?  $      ?O?¬·¯?{x?  D      
+ﬁƒz?A?~¿?  D      =32¯U)˘~™  ‘     ?^˘EÔ?f‡?  4             ‡j]??∫    Õ?i?syK                   SABoneCollider      ¡≈1‹]?K?Q{?&?Ó   SABoneCollider         Assembly-CSharp.dll    HitDetectColliderHelper     fR”dÒ?¬dÂ?V?   HitDetectColliderHelper    COW.GamePlay   Assembly-CSharp.dll         HG?Œ?«Ù       ‡j]??∫            d   d   d                    ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                     ??    ÕÃL=                              bone_Hips_Dummy         2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                             —@{ÕËN
+    ?,?E 0E    ˇ?8<¬Õ??    Ac?Õ??        bone_RightLegUpper             F√‚f y#X       ‡j]??∫            d   d   d                    ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                     ??    ÕÃL=                              bone_RightClav          2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                          A?Gr?u?,       ‡j]??∫            d   d   d                    ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                     ??    ÕÃL=                              bone_LeftThumb2         2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                          P?ˇ??'       ‡j]??∫            d   d   d                    ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                     Ä?    ÕÃL=                              bone_RightAnkle         2   !                      ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                      Ä?    ÕÃL=                                          ¬v;#áÌ∂               Æπ=,Õ>    {˘lΩX4	ª∞`æ∫           Ñπ†5c˛æf    úÉQJ H<       bone_RightIndex2        ¡äóÂOOﬁ       ÕæiÖsyK               y‘i"n?S       ‡j]¥ü∫            d   d   d                    ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                     Ä?    ÕÃL=                           	   bone_Head           2   !                      ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                      Ä?    ÕÃL=                                      ‹W_ËRj              Ä?              Ä?  Ä?  Ä?       jÌ+~Æ2eO    âoœ
+°ˆ,    Â.LVÁxÊ    Ïcàm\∏    d‹ó)X4    ^
+Ÿ`<‹∂&    é$É∂_•A˝    ‘—'J›†Ói    ]q≠ë/√ÀÍ    õ_ G¥Œ,ø    2‰ÃâT∆Î    }*±ﬂ õ    TqiŒ‹-'    w¨¥Ìk¥    ô∞U•π3Æj    ÌŸ∆	9‡†    ÕLíî-U    B9÷µÜ î                    ˜ ∞Z≤>ó               ub=÷∑`>    ‰ÚΩÕôº Ëˇ∏        Œe
+ó◊ã”àÓr02æb>⁄}?@rxæ    
+◊#2ˇˇ?ˇˇ?  Ä?        ˘ciÆ¡á\           √¥ûÃq≠H¥    ¡ò,!NÅï    *6ÙøÄ≤4{    Q–éCÒ    	   bone_Hips              ºÃOTFä"Mø†ZÅæUˆR?ó∫5Ω @Ü<ppî<óé$=  Ä?  Ä?  Ä?        ˘ciÆ¡á\           
+à√‡Uëø    ∑"l™+ˆ„±    ÎpÎÌ¡NÔ    †˘i077L¿       bone_LeftAnkle            ^
+Ÿ`<‹∂&    SYDÊÔa"    c´ÉºÈî	‘    9Ç@≤Î√E	   
+   bone_RightLeg          TÆe˜s€               z
+w=Ï˛T>    º˝Ω∞„©:ÄB#π           ∏Oë¬·¯©{    ø£rπ…Í‰√       bone_LeftF_Hips_Weapon         k#™¡ÎÃ       ‡j]¥ü∫            d   d   d                    ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                     Ä?    ÕÃL=                           
+   bone_Spine          2   !                      ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                      Ä?    ÕÃL=                                      B
+ãé}d       ‡j]¥ü∫            d   d   d                    ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                     Ä?    ÕÃL=                              bone_RightMiddle1           2   !                      ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                      Ä?    ÕÃL=                                      
+¢Y RFI       ‡j]¥ü∫            d   d   d                    ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                     Ä?    ÕÃL=                              bone_Left_Spine_Backpack        2   !                      ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                      Ä?    ÕÃL=                                          ˜ ∞Z≤>ó       ‡j]¥ü∫            d   d   d                    ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                     Ä?    ÕÃL=                              bone_LeftLeg        2   !                      ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                      Ä?    ÕÃL=                                      î”Kÿ©±G8.?Ÿ8/;9<Øº«};?ih
+æ          Ä? Ä? Ä?        ·–à/£?qÑ        {~2s-ÿä       ‡j]¥ü∫            d   d   d                    ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                     Ä?    ÕÃL=                           	   bone_Hips           2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                         Â.LVÁxÊ    ˇ?n~??    d>÷@?g    .?˚j?q7?	      bone_LeftLeg           ?5F-=JqL˙4?≈r?<?k?<_‚4???
+?#?      ??  ?? ??       ?„Ê??t    9?˘€È    ?˙Ôh?    ˘ci?¡?\    ?”Kÿ??       Õ?i?syK               ?‡<?%?‚       ‡j]??∫            d   d   d                    ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                     ??    ÕÃL=                           
+   bone_Spine          2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                       ¡??ÂOOﬁ               ¬D?<R??=   ˘5?p?:hn»<        Œe
+???”       Õ?i?syK               ;˚l8?U??›?0Ïœˇ??›=Ïœ?k˘?          ??  ??  ??        ·–?/??q?        ﬂ9???Y       ‡j]??∫            d   d   d                    ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                     ??    ÕÃL=                              bone_RightAnkle         2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                             ?˙Ôh?    ??Â^–¬?       bone_LeftThumb1        ﬂ9???Y       Õ?i?syK               Fÿ?Û]?K?       ‡j]??∫            d   d   d                    ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                     ??    ÕÃL=                           	   bone_Mask           2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                      µ?‡µ,9X¬.T∫Ù=???????sN??Ù?+Y~< ?? ?? ??       ???5c˛?f    ı?ÿ??JP       ??≈D:?»È    ∆ˆ?›??y?    	   bone_Mask              :Í_?˝?ı-       Õ?i?syK               6??⁄<Ï??       ‡j]??∫            d   d   d                    ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                     ??    ÕÃL=                              bone_LeftMiddle2        2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                             }*?ﬂ ?    –%C¡ıI⁄    7=?ws?    ¯Ó«ÒÁŒﬁ‹	      bone_LeftForeArm       ;˚l8?U?       Õ?i?syK               W5??t(??”Q????T=???}?
+?#?    ˇˇ?ˇˇ?  ??        ˘ci?¡?\           œ	ÙQ?˚    *d ?ÌÚ?       bone_LeftMiddle2          2DˆÌ1$-    G?˘P?«a    ˇ{??ˆFM    T?Â?HÃ«W    
+   bone_Spine1               Î?b+?˙?    ?k?>—¸
+       bone_Glasses           Á‡g?*       ‡j]??∫            d   d   d                    ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                     ??    ÕÃL=                           
+   bone_RightArm           2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                          P?ˇ??'       Õ?i?syK               ????¡8?˚X8?ı?1?Œz?_C4µ??O<ÃÃL?  ??  ??  ??        ÎHlAhk?I           ??,	B?S÷    ,Z—√PB˛       bone_Right_Spine_Weapon        HG?Œ?«Ù               ‡Â?=:?I>   ???0ˇ7? ˝x;        ¬v;#?Ì?       Õ?i?syK               ?5»Y?z9       ‡j]??∫            d   d   d                    ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                     ??    ÕÃL=                           
+   bone_RightToe           2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                          :Í_?˝?ı-       ‡j]??∫            d   d   d                    ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                     ??    ÕÃL=                              bone_RightClav          2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                          ;ˆ??‚o??       ‡j]??∫            d   d   d                    ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                     ??    ÕÃL=                              bone_LeftThumb1         2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                             B9÷µ? ?    =32¯U)˘~    wÏ?jÊrÃ?    Ë?÷?9?	      bone_RightHand         {1yK?       ‡j]??∫            d   d   d                    ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                     ??    ÕÃL=                              bone_LeftAnkle          2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                          y‘i"n?Sœ(?™Î??#SË=ıX~?¬√6?f???˛Ã?˛ˇ?˛ˇ?  ??        ·–?/??q?        {~2s-ÿ?   ?   ?Èˇˇ>  ?   ?          ??  ??  ??       ?O?¬·¯?{    bVc?Q??    ˘ci?¡?\        _[Ë?
+j'	               ?ÀÁ<?œ?=    C?›??z???I
+?           ÌŸ∆	9‡?    ?Y?()?u    Ôyƒaƒ)-?    ?·ıG«’?	   
+   bone_RightArm             d‹?)X4    X]-4¸??    ÔI??1
+W8    ?÷…???l	      bone_RightLegUpper             ﬁ+2?ÿW?Ì       ‡j]??∫            d   d   d                    ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                     ??    ÕÃL=                           
+   bone_LeftHand           2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                          P?ˇ??'               ?
+ =?¡¡=   oG?x‘√; %?:        ??Ù„;4       ‡j]??∫            d   d   d                    ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                     ??    ÕÃL=                              bone_RightThumb1        2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                          ]?$a5!ﬂ¡?T0???¿?T=???}?
+?#?    ˇˇ?  ??  ??        ˘ci?¡?\           -	vHÃ?+    ÁﬂÕ#‡?    a&/’=yQ    ?‘WÂP@?       bone_LeftArm           Ù?m?uµ??       Õ?i?syK                  ?ˆ????R    ¯?FABˇU0    hÿ?X¡Î¯    Ó≈?L??       bone_LeftLeg            ¡??ÂOOﬁ„„	???-?Œ™W?ÎyŒ;Bu?˘??R? =  ??ˇˇ?  ??        ·–?/??q?        Ò&A?Ú?J@??‘=Ÿ3?[	3?'?’?∫????Ê?  ??  ??  ??        √??Ãq?H?        {1yK?≈¿e?»˘f=yb??⁄?~?fa?    
+?#2ˇˇ?¸ˇ?ˇˇ?       –(ŸQ3?zf    ˘ci?¡?\    {1yK?               ?
+ =?¡¡=   nG?»÷√;'?∫        ﬁ+2?ÿW?Ì       Õ?i?syK               TÕ9?X??       ‡j]??∫            d   d   d                    ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                     ??    ÕÃL=                              bone_LeftF_Hips_Weapon          2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                          Á‡g?*       Õ?i?syK               ?–>???∆y              ???>  ??                          u»??¯(8K    R%ÿÓ˛??    ?< ∫?Oi{    v~—“?N    
+   bone_Spine                –(ŸQ3?zf    u %d]??       bone_LeftToe              ÎHlAhk?I    'C⁄?J?ÛR    ƒhŒ???.    ?~b.JM;    	   bone_Head                 ?„Ê??t    _k?'
+?2       bone_LeftIndex1        W5??t       ‡j]??∫            d   d   d                    ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                     ??    ÕÃL=                              bone_LeftForeArm        2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                          7f7$¸?`€j??˙a2«⁄??“?s? 	?    
+??1  ??  ??  ??        ?„Ê??t           Ìu?C?’?    ?; ?5Ï    ﬂ%∆Â
+™?    ??ˇ¿/qDy    
+   bone_RightLeg          ?_„@Œ√Ù?       Õ?i?syK               ?W?€„?Ó               ?x?=??>   cq????t?  ??        Íw‘?,R™?Õ4?F<5?‚F‹4?µ?_?7o?\€??  ?? ??  ??        2DˆÌ1$-        :Í_?˝?ı-               f?$<V??=   ?Ó:?≈?:
+?«?        $?ﬁ/—b¸+       ‡j]??∫            d   d   d                    ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                     ??    ÕÃL=                              bone_LeftAnkle          2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                          ;˚l8?U?       ‡j]??∫            d   d   d                    ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                     ??    ÕÃL=                              bone_LeftForeArm        2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                          ]?$a5!ﬂ               ÕÍ<:s>    Ã{??0˙ƒ; ﬁ?:        ?W?€„?Ó       ‡j]??∫            d   d   d                    ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                     ??    ÕÃL=                           
+   bone_Spine1         2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                      ;˚l8?U?               /ÿ»<eK
+>    q???˝?∫@?9        ?ÿUC‘ R0mE?dw12÷??«&q? 3Í?    
+?#1ˇˇ?ˇˇ?  ??        oµK??’Ô        {?=?N€?       ‡j]??∫            d   d   d                    ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                     ??    ÕÃL=                              bone_RightThumb2        2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                              ?r(?-    	   bone_Neck             ?_ G?Œ,?    c“???    ^?,?¡‡?    8ËK??	   
+   bone_LeftClav          h?gﬁ=?c]       Õ?i?syK                  D ???…·?    ‡˝?Í?NSÙ    ¡?˚ÿc    ÷?‚œH?€       bone_RightForeArm                 ‘—'J›?Ói    ?|>Ã?¯??    )‡'iVÍp    _ÔÙ(?^*	   
+   bone_Spine                
+ﬁƒz?A?~    ﬂ?
+j‹—&       bone_Left_Spine_Weapon         ?–>???∆y              ??              ??  ??  ??                        ? ?Z?>?P??/? 2??<·ˆ???X?          ?? ??  ??        ·–?/??q?        Fÿ?Û]?K?@¡’?[?h??T96?›ı4ˆ!?w
+?<=Ÿ?? ?? ??  ??        ÎHlAhk?I        ?W?€„?Ó?
+w??Á??ÚÎ–<?Í?!???cÙ?Õ???  ??  ??  ??        ·–?/??q?        ?1AHPIÿ?'??3?J?=??g=
+◊£3˜
+«3‚&N= Ä?  Ä?  Ä?        ˘ciÆ¡á\        h≠gﬁ=Öc]
+Ñs<•˝bæJ. º‹óy?Î.óΩè¬ı1      Ä? Ä? Ä?        ·–à/£?qÑ        æ5F-=Jq       ‡j]¥ü∫            d   d   d                    ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                     Ä?    ÕÃL=                           
+   bone_LeftHand           2   !                      ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                      Ä?    ÕÃL=                                             TqiŒ‹-'    &È≥|¸∏    _ª˜TëLŸ¡    "G:Ñ÷n	   
+   bone_LeftHand          Á‡g¶*               ê°2=H,9>    }⁄öΩË=;bñ<        A°Grªu©,s9?±÷Îâ/Â∑ΩE˜~?ôª‚º         Ä? Ä?  Ä?        Ç˙Ôhü           ]q≠ë/√ÀÍ    Ì•Lä§÷‹    ã^m∑ã¿Ú    àSY#Çt¿‘	   
+   bone_Spine1            W5ÑÜt       ÕæiÖsyK               {1yKå       ÕæiÖsyK                  9á˘€È    —hˆ˝ı       bone_LeftMiddle1       B
+ãé}dçπ–9!Ù—6ÏøÄºÁ˜?OΩ¬Òº+º Ä? Ä? Ä?       :ü=ksÏ‹    ıéÿæ∞JP    Ço*®∆PΩ       ‡j]¥ü∫            d   d   d                    ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                     Ä?    ÕÃL=                              bone_LeftArm        2   !                      ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                      Ä?    ÕÃL=                                      $åﬁ/—b¸+IÃ√º#äw=√ΩK?iaæ
+◊£1    ˇˇ?˚ˇ?˛ˇ?        ·–à/£?qÑ        {~2s-ÿä                Ω•=RpL>   ¶mQ<R;¿ù£:        y¢/
+4ÍW       ‡j]¥ü∫            d   d   d                    ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                     Ä?    ÕÃL=                              bone_RightForeArm           2   !                      ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                      Ä?    ÕÃL=                                      ]ï$a5!ﬂ       ‡j]¥ü∫            d   d   d                    ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                     Ä?    ÕÃL=                              bone_RightForeArm           2   !                      ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                      Ä?    ÕÃL=                                         jÌ+~Æ2eO    9Wì´⁄¡:Ä    @;"±T4$o    {L0/À≤Ö™	      bone_Hips_Dummy        eT≤Ì!oÔ       ‡j]¥ü∫            d   d   d                    ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                     Ä?    ÕÃL=                              bone_LeftMiddle1        2   !                      ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                      Ä?    ÕÃL=                                          ‹◊¨≈Z"Ú∑       ‡j]¥ü∫            d   d   d                    ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                     Ä?    ÕÃL=                              bone_RightLegUpper          2   !                      ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                      Ä?    ÕÃL=                                      y‘i"n?S       ÕæiÖsyK               mõ˙Á¬º ø       ÕæiÖsyK               å1AHPI       ‡j]¥ü∫            d   d   d                    ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                     Ä?    ÕÃL=                              bone_LeftLegUpper           2   !                      ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                      ??    ÕÃL=                                      6??⁄<Ï??C“0?Ÿƒ03÷??«&q?3Í?    
+??0ˇˇ?ˇˇ?ˇˇ?        9?˘€È        y?/
+4ÍW               ?”»<Tc
+>    T???∆?∫?T??        y?/
+4ÍW       Õ?i?syK               ﬂ9???YCÃ√<:?w???K?ia?
+?#?
+?#?ˇˇ?¸ˇ?ˇˇ?        ·–?/??q?        Íw‘?,R™       ‡j]??∫            d   d   d                    ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                     ??    ÕÃL=                              bone_Right_Spine_Weapon         2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                      	   cache_res         9W??⁄¡:?    ?·ıG«’?    ^?,?¡‡?    –Ù? √…?    ·–?/??q?    .?˚j?q7?    ?_„@Œ√Ù?    ıw·??€8?    ˇ?n~??    B9÷µ? ?    ? ?Z?>?    wÏ?jÊrÃ?    ?|>Ã?¯??    8ËK??    }*?ﬂ ?    ?#?‡]3?    .JZLŒ?*?    lye??P?    ;˚l8?U?    7=?ws?    {L0/À??™    Ôyƒaƒ)-?    ?µ‚EO?    ?”Kÿ??    w??Ìk?    ¬v;#?Ì?    ‹??≈Z"Ú?    &È?|¸?    ‡j]??∫    ?_ G?Œ,?    _??T?LŸ¡    c???È?	‘    ?SY#?t¿‘    ?c˛=!IÀÿ    &?+E⁄    –%C¡ıI⁄    Ì?L??÷‹    ¯Ó«ÒÁŒﬁ‹     ¡??ÂOOﬁ    ’Œ}˚?È?ﬁ    ?‡<?%?‚    Â.LVÁxÊ    ]q??/√ÀÍ    2‰Ã?T∆Î    ﬁ+2?ÿW?Ì    ?W?€„?Ó    Ïc?m\?    Û?«?˙‡Ú    HG?Œ?«Ù    X]-4¸??    B?V`?»u¯    ÍCh."¸    ?˙?+√??¸    ?$??_?A˝    T?e?s€    ??ˆ?‡	    c“???    ÌŸ∆	9‡?    ?^m??¿Ú    )‡'iVÍp    d‹?)X4    œI[·>…    Ë?÷?9?    SYDÊÔa"    ^
+Ÿ`<‹?&    TqiŒ‹-'    _ÔÙ(?^*    $?ﬁ/—b¸+    ?oœ
+?ˆ,    :Í_?˝?ı-    <ƒ\—i*1    ÏÚ??\5    UiÂÎS?7    ÔI??1
+W8    9?@?Î√E    !mU?
+ƒsJ    Õ?i?syK    √€?w+@WK    jÌ+~?2eO    ?1Œ”?P    y‘i"n?S    ÕL??-U    y?/
+4ÍW    ﬂ9???Y    h?gﬁ=?c]    d>÷@?g    ‘—'J›?Ói    ‹W_ËRj    ??U??3?j    ?÷…???l    "G:?÷n    @;"?T4$o    ?Y?()?u    =32¯U)˘~    
+$??—?˝…    ≈vff?"Ê    ~Y;˘·?:    Õ?i?syK    ?–>???∆y    Ù?m?uµ??    “oÙ??¸?    i>
+?—Í%?    ™ﬂC·'M?    ?f@ ?Ú?    Ìu?C?’?    {~2s-ÿ?    –?|Um4?    {1yK?    TÕ9?X??    R%ÿÓ˛??    ⁄uŸ??Ê?    ﬁO.˘· ?    ¡?,!N??    Ÿ…Kz?    ﬂ%∆Â
+™?    ;ˆ??‚o??    ∆ˆ?›??y?    b?ﬂ›«?    Fÿ?Û]?K?    *d ?ÌÚ?    hf???Zı?    6??⁄<Ï??    WﬂV ÀË?    ????¡8?    o+!Êa?    X?ÒBÎG?    Î?b+?˙?    Íw‘?,R™    GÃI^>?    ??Â^–¬?    ?"l™+ˆ„?    √??Ãq?H?    iÌ?∫a??    ??K˘?3√?    ‡j]??∫    ??∫?U<?∫    D ???…·?    ?o*?∆P?    ˇ?8<¬Õ??    m?˙Á¬? ?    bVc?Q??    
+?√‡U??    ?˘i077L¿    ??r?…Í‰√    a@poD’…    k#™¡ÎÃ    ?a)a>Õ    	?9????Õ    ‹È;
+ ?–    ?S7&?“    ]??wK”    Œe
+???”    ??,	B?S÷    ÷?‚œH?€    :?=ksÏ‹    S?_?‘⁄›    ?K?√?:›    ]?$a5!ﬂ    $‰ı!??>‰    ??≈D:?»È    -
+ <MÀ?Î    #˛˚'q?ÙÏ    ‘LT™ Ó    Zq/XÊulÓ    ?B?‡Ô    ÎpÎÌ¡NÔ    eT?Ì!oÔ    oµK??’Ô    ÁﬂÕ#‡?    Q–?CÒ    ‡˝?Í?NSÙ    —hˆ˝ı    hÿ?X¡Î¯    nÍ…,Q:n˙    œ	ÙQ?˚    ,Z—√PB˛    Ac?Õ??      ?r(?-    ?ÃOTF?    ?S
+ı
+—-    9?˘€È    ?; ?5Ï    u %d]??    ¡?˚ÿc    ?ﬁa{X1    _[Ë?
+j'	    ?k?>—¸
+    —@{ÕËN
+    
+?Â?P??    ?‘WÂP@?    ??√??    {?=?N€?    KT?6?Q˝    ??Ù„;4    ﬂ4*b
+    P?ˇ??'    Ó≈?L??    ?˙Ôh?    ]hA-X?X$    ﬂ?
+j‹—&    ? '?–?J)    Á‡g?*    ˆ?lÎV?*    -	vHÃ?+    A?Gr?u?,    2DˆÌ1$-    p:ƒÚ5.    ƒhŒ???.    ¯?FABˇU0    ?˚–)Œ?0    _k?'
+?2    ?5»Y?z9    ?~4V?Á0;    ?~b.JM;    ??QJ H<    ??v	 =    Ò&A?Ú?J@    ››~¿„≈?D    ?,?E 0E    w¸?Tﬂ?F    ?1AHPI    
+?Y RFI    ÎHlAhk?I    =sƒ˛?˚J    Õ?i?syK    u»??¯(8K    ˇ{??ˆFM    v~—“?N    ı?ÿ??JP    a&/’=yQ    ?ÿUC‘ R    ?ˆ????R    'C⁄?J?ÛR    ?6?ı?W    T?Â?HÃ«W    F√‚f y#X    µ?‡µ,9X    …?Õt[    ˘ci?¡?\    7f7$¸?`    G?˘P?«a    B
+??}d    –(ŸQ3?zf    ???5c˛?f    ?Kp?Ë?%i    ? ?3Êi    ÷aY?»k    ?5F-=Jq    ?8?{“Û«q    gq-
+€ ?s    W5??t    ˇY"???t    ”À¸r???t    ?„Ê??t    c√ƒm˝?v    ??ˇ¿/qDy    *6Ù???4{    ?< ∫?Oi{    ?O?¬·¯?{    
+ﬁƒz?A?~    ?^˘EÔ?f   9   assets/resources/ingame/capsulehumansnipercollider.prefab   ^          ?–>???∆y1   assets/resources/ingame/female_dtscollider.prefab   c   ¢       c√ƒm˝®v/   assets/resources/ingame/male_dtscollider.prefab     ^       ‹W_ËRj                       	   cache_res                           ÙêmëuµñÄ               ‡‰Ü=êƒà>    "—¡Ω‡ª8Á∏;        ÑKÉ√Ø:›˜Ô©
+ã5y´7æ-Ÿ{?ô_ÛΩÖÒœ9fY¢≤  Ä?  Ä?  Ä?        2DˆÌ1$-           –ï|Um4å    KTÉ6ÇQ˝    =sƒ˛´˚J    p:ƒÚ5.    
+   bone_LeftClav             âoœ
+°ˆ,    UiÂÎSñ7    œI[·>…    ıw·ªß€8è	      bone_LeftLegUpper              µê‡µ,9X       ‡j]¥ü∫            d   d   d                    ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                     Ä?    ÕÃL=                              bone_RightIndex1        2   !                      ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                      Ä?    ÕÃL=                                          eT≤Ì!oÔêπ–π“∂ÏøÄºÁ˜?OΩôÒº-< Ä?  Ä?˛ˇ?       œ	ÙQó˚    Ÿ…Kzó    Œe
+ó◊ã”       ‡j]¥ü∫            d   d   d                    ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                     Ä?    ÕÃL=                           
+   bone_RightLeg           2   !                      ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                      Ä?    ÕÃL=                                          êa)a>Õ       ‡j]¥ü∫            d   d   d                    ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                     Ä?    ÕÃL=                              bone_LeftToe        2   !                      ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                      Ä?    ÕÃL=                                      ]ï$a5!ﬂ       ÕæiÖsyK               ©ÿUC‘ R       ‡j]¥ü∫            d   d   d                    ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                     Ä?    ÕÃL=                              bone_RightMiddle2           2   !                      ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                      Ä?    ÕÃL=                                         ıéÿæ∞JP    ]hA-XæX$    ˆ°lÎVª*    iÌÜ∫a∏¥       bone_RightHand         h≠gﬁ=Öc]               öØ#= Ã>    Ã¯lΩ@“ŒπXdæ:        úäΩ≤¡8¶       ‡j]¥ü∫            d   d   d                    ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                     Ä?    ÕÃL=                              bone_Glasses        2   !                      ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                      Ä?    ÕÃL=                                       ¡äóÂOOﬁ       ‡j]¥ü∫            d   d   d                    ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                     Ä?    ÕÃL=                           
+   bone_LeftClav           2   !                      ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                      Ä?    ÕÃL=                                          ÙêmëuµñÄ—≥'Ωê3?¨ôΩøgΩ
+◊£≥ÊxI≥‚&NΩ Ä? Ä?  Ä?        ˘ciÆ¡á\        ¬v;#áÌ∂
+Ñsº£˝b>H. º‹óy?Ó.óΩ          Ä?ˇˇ?  Ä?        ·–à/£?qÑ        ªWÄ€„ÆÓ       ÕæiÖsyK               Ò&AÖÚ∏J@       ‡j]¥ü∫            d   d   d                    ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                     Ä?    ÕÃL=                              bone_Right_Hips_Weapon          2   !                      ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                      ??    ÕÃL=                                          ?‡<?%?‚       Õ?i?syK               ‹??≈Z"Ú?
+∫<?Y?Ï? ?À‡p?
+??? -P?‚&N?ˇˇ? ??ˇˇ?        ·–?/??q?        ?o*?∆P?               :ƒ0=Ó?>    ?Y¿?$œ?;T˚Ë?        …?Õt[9?A‰0???`,µ?j’? <???E™ ?? ??  ??        ÎHlAhk?I        T?e?s€       Õ?i?syK                  ?˚–)Œ?0    S?_?‘⁄›       bone_RightThumb2       ?ÃOTF?       ‡j]??∫            d   d   d                    ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                     ??    ÕÃL=                           
+   bone_LeftClav           2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                             ?6?ı?W    ??∫?U<?∫       bone_RightThumb1       ?”Kÿ??               ?„?<˛u|=    ?€????: ??∫        F√‚f y#X       Õ?i?syK                  ?8?{“Û«q    ™ﬂC·'M?    X?ÒBÎG?    ??K˘?3√?       bone_RightAnkle        m?˙Á¬? ?               VLe=
+db>    ?À??=S??[?;        ;ˆ??‚o???«?US??ÚQq?∆q3?G›;?= F;˝i?  ??˛ˇ? ??       Zq/XÊulÓ    Ÿ…Kz?    ?_„@Œ√Ù?       ‡j]??∫            d   d   d                    ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                     ??    ÕÃL=                           
+   bone_RightLeg           2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                          _[Ë?
+j'	       ‡j]??∫            d   d   d                    ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                     ??    ÕÃL=                              bone_RightHand          2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                          ?_„@Œ√Ù?E??0—?????<·ˆ???X?    
+?#?  ?? ??  ??        ·–?/??q?        $‰ı!??>‰       ‡j]??∫            d   d   d                    ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                     ??    ÕÃL=                              bone_Left_Spine_Weapon          2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                          ﬁ+2?ÿW?ÌG8.?w8/?0<??«};?gh
+?
+?#1    ˇˇ?˛ˇ?ˇˇ?        ·–?/??q?        F√‚f y#XM?QZ?>`ˆR?
+?5? @?<·p?<p?$?  ??  ??  ??        ˘ci?¡?\           ÷aY?»k    o+!Êa?    a@poD’…    ‘LT™ Ó    
+   bone_RightArm          ?‡<?%?‚               (ˆ?=
+;8>   }??P&?; ˛?∫        _[Ë?
+j'	       Õ?i?syK               ?o*?∆P?\6ﬂ=.j|?—p¸=?t??u???¬ı?    ˛ˇ?ˇˇ?  ??        ˘ci?¡?\           Ïc?m\?    &?+E⁄    √€?w+@WK    <ƒ\—i*1	      bone_LeftAnkle            Zq/XÊulÓ    i>
+?—Í%?       bone_LeftThumb2        T?e?s€¯∫<?Y?p? =Gﬂp=
+??3??√3‚&N=ˇˇ?  ??  ??        ·–?/??q?        WﬂV ÀË?N?
+?5:5 ¿–?ˇˇ?
+?6?E»;      ??  ??  ??       ?~4V?Á0;    
+ﬁƒz?A?~     ?r(?-    ??,	B?S÷    ˘ci?¡?\           ??U??3?j    ?µ‚EO?    lye??P?    ?c˛=!IÀÿ	      bone_RightClav         ?ÃOTF?               K;=?b–=    Ù?y?pVw;+ƒ<        	?9????Õ       Õ?i?syK               m?˙Á¬? ?       ‡j]??∫            d   d   d                    ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                     ??    ÕÃL=                              bone_LeftLeg        2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                      {?=?N€?Ít?08y1Â??E?~???‚?          ?? ?? ??        ?6?ı?W        $?ﬁ/—b¸+               ?,=‰2÷=   ?Y???–X<@?:        ‹È;
+ ?–       ‡j]??∫            d   d   d                    ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                     ??    ÕÃL=                              bone_LeftIndex1         2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                          y‘i"n?S               ÏQ?=‰?>    
+???'¡?<¿–¯?        T?e?s€       ‡j]??∫            d   d   d                    ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                     ??    ÕÃL=                              bone_LeftLegUpper           2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                      ‹??≈Z"Ú?       Õ?i?syK                  gq-
+€ ?s    GÃI^>?    
+   bone_RightToe          ?–>???∆y       Õ?i?syK    
+           
+?Y RFIB0:?∫?/??
+?4¸√@µ3???P?b?’?? ??  ??  ??        2DˆÌ1$-        	?9????Õ               ÏQ?=r?>    
+??? ??7  ??        ?f@ ?Ú?       ‡j]??∫            d   d   d                    ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                     ??    ÕÃL=                              bone_RightIndex2        2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                          ?1AHPI       Õ?i?syK                  bVc?Q??    
+?Â?P??       bone_Right_Hips_Weapon         W5??t               &?=DF>    ‚??????:?“∫        Ù?m?uµ??       ‡j]??∫            d   d   d                    ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                     ??    ÕÃL=                              bone_RightLegUpper          2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                      ?_„@Œ√Ù?               wb=ﬁ∫`>    ÁÚ???? ¿ˇ8        ?5F-=Jq       Õ?i?syK                  -
+ <MÀ?Î    nÍ…,Q:n˙    ??v	 =    ˇY"???t       bone_LeftLegUpper                 ?~4V?Á0;    ﬁO.˘· ?       bone_Left_Spine_Backpack       	?9????Õ??Í™?µµ?e2>…|?·?????˛Ã?  ??  ??  ??       Î?b+?˙?    ??√??    ??≈D:?»È    ˘ci?¡?\    h?gﬁ=?c]       ‡j]??∫            d   d   d                    ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                     ??    ÕÃL=                              bone_LeftArm        2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                      ?ÃOTF?       Õ?i?syK               k#™¡ÎÃN?
+?5:5 ¿–?ˇˇ?\?D?˚D»;?ˇ2  ??  ??  ??        ˘ci?¡?\        $?ﬁ/—b¸+       Õ?i?syK               WﬂV ÀË?       Õ?i?syK               k#™¡ÎÃ               4Ù?={.>    
+???
+?#???Ì:        HG?Œ?«Ù??;3"?5X?Ë4  ??   ?          ??  ??  ??        ·–?/??q?        _[Ë?
+j'	L˙4? r???k?<_‚4???         ?? ?? ??       b?ﬂ›«?    oµK??’Ô    ?6?ı?W    ˘ci?¡?\    ﬂ9???Y               ?,=È2÷=   ?Y???œX<h?∫        ?o*?∆P?       Õ?i?syK                  :?=ksÏ‹    ?ﬁa{X1       bone_RightMiddle2              m?˙Á¬? ?u?2«(?1¿b>⁄}?@rx?        ˇˇ?  ??  ??        ˘ci?¡?\        	?9????Õ       ‡j]??∫            d   d   d                    ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                     ??    ÕÃL=                           	   bone_Head           2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                         w??Ìk?    –Ù? √…?    B?V`?»u¯    ÏÚ??\5	   	   bone_Head              y?/
+4ÍW?›??Ìœˇ2?›=Ïœ?k˘?
+???
+?#3  ?? ??  ??        ·–?/??q?        ??Ù„;4?«?VS?>ÈQq?∆q3?3›;?= F; j< ??  ?? ??       ?˚–)Œ?0    ı?ÿ??JP    WﬂV ÀË?               )\?=??>   ÕÃL?      ??           ÕL??-U    Û?«?˙‡Ú    ?˙?+√??¸    ÍCh."¸	      bone_RightForeArm                 ? '?–?J)    “oÙ??¸?    ﬂ4*b
+    ”À¸r???t       bone_RightClav            b?ﬂ›«?    ?S
+ı
+—-       bone_RightIndex1          ?$??_?A˝    ?#?‡]3?    .JZLŒ?*?    ?1Œ”?P	      bone_RightAnkle           ??√??    ?Kp?Ë?%i       bone_Hat       c√ƒm˝?v              ??              ??  ??  ??       √??Ãq?H?    -
+ <MÀ?Î    ?ˆ????R    
+?√‡U??    —@{ÕËN
+    Ìu?C?’?    ?8?{“Û«q    u»??¯(8K    ÎHlAhk?I    –?|Um4?    -	vHÃ?+    hf???Zı?    Ÿ…Kz?    ? '?–?J)    ÷aY?»k    D ???…·?    ı?ÿ??JP    2DˆÌ1$-                       2‰Ã?T∆Î    !mU?
+ƒsJ    ’Œ}˚?È?ﬁ    ??ˆ?‡		      bone_LeftArm              ]??wK”    ? ?3Êi       bone_LeftIndex2        WﬂV ÀË?       ‡j]??∫            d   d   d                    ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                     ??    ÕÃL=                              bone_ Spine1        2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                         oµK??’Ô    ⁄uŸ??Ê?       bone_RightMiddle1              ?a)a>ÕÙ51Ù51Ù5?Ù5?zg???∆?=
+?#2  ??  ??  ??        
+?√‡U??        ?f@ ?Ú??NO/Ï???«⁄??“?s? 	?
+?#3
+???˛ˇ?  ??  ??        b?ﬂ›«?        ? ?Z?>?       Õ?i?syK               …?Õt[       ‡j]??∫            d   d   d                    ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                     ??    ÕÃL=                              bone_Hat        2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                          7f7$¸?`       ‡j]??∫            d   d   d                    ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                     ??    ÕÃL=                              bone_LeftIndex2         2   !                      ˇ         ??  ??  ??    
+?#<
+?#<
+?#<                                                                                      ??    ÕÃL=                                          ?‡<?%?‚N?
+?5:5 ¿–?ˇˇ???D????R'™3  ??  ??  ??        ·–?/??q?           ·–?/??q?       Male_DTSCollider           :Í_?˝?ı-„„	?Ë?-<Œ™W?mmŒ;Bu????p? ?  ?? ??  ??        ·–?/??q?        Á‡g?*[6ﬂ?0j|>—p¸=?t??u??
+?#1    ˛ˇ?  ?? ??        ˘ci?¡?\        ‹??≈Z"Ú?               ^vl=Ã–P>    Ô? ?@??9 N ∫        ﬁ+2?ÿW?Ì               ?„?<ˆ
+|=    v¸€?|^?:P??:        HG?Œ?«Ù       Õ?i?syK                  Ÿ…Kz?    #˛˚'q?ÙÏ    w¸?Tﬂ?F    ?^˘EÔ?f    
+   bone_LeftHand          P?ˇ??'?¿e<ﬂ˘f?xb??⁄?~?ga?
+???
+???ˇˇ?˛ˇ?  ??       gq-
+€ ?s    ˘ci?¡?\    ?5»Y?z9¬?B?¬?B?Ù5?Ù5?yg???∆?=      ??ˇˇ?  ??        ?8?{“Û«q           hf???Zı?    ?S7&?“    ?B?‡Ô    ››~¿„≈?D       bone_LeftForeArm       ?1AHPI               ??=nI`>    ??˘?ÿ?=?"‘?        F√‚f y#X               Hm=µ?=   k+?P?;Ï? ?        ‹È;
+ ?–ı.T:Û????™??{sN??Ù?)Y~?  ??ˇˇ?ˇˇ?       ]??wK”    Ÿ…Kz?    ¬v;#?Ì?       ‡j]??∫            d   d   d                    ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                     Ä?    ÕÃL=                           
+   bone_RightArm           2   !                      ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                      Ä?    ÕÃL=                                             ˘ciÆ¡á\       Female_DTSCollider         Œe
+ó◊ã”               Ñ!k=(≤e>    ~}ÙΩXß¢º0b¸:           ≈vff≥"Ê    
+$äπ—ö˝…    ~Y;˘·æ:      CapsuleHumanSniperCollider         {~2s-ÿä       ÕæiÖsyK               k#™¡ÎÃ       ÕæiÖsyK               TÕ9∏X¨ë'‰Ωx¬2?@»2?Q˜‚=fÃ¬º/†4Ó	À=  Ä?  Ä? Ä?        √¥ûÃq≠H¥        $‰ı!ìø>‰êÕ4?F<5?‚F‹4©µp_ΩXoΩ·ÿ?=  Ä? Ä?  Ä?        2DˆÌ1$-        î”Kÿ©±       ‡j]¥ü∫            d   d   d                    ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                     Ä?    ÕÃL=                              bone_RightHand          2   !                      ˇ         Ä?  Ä?  Ä?    
+◊#<
+◊#<
+◊#<                                                                                      Ä?    ÕÃL=                                          æ5F-=Jq            
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>VanHoanLuaGa</string>
+			<key>PayloadIdentifier</key>
+			<string>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</string>
+			<key>PayloadOrganization</key>
+			<string>Make By: VanHoanLuaGa</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>00008030-000615C23AB8402E</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>VAN HOAN LUA GA</string>
+	<key>PayloadDisplayName</key>
+	<string>VAN HOAN LUA GA HAHA</string>
+	<key>PayloadIdentifier</key>
+	<string>com.vanhoanios.apple-dns</string>
+	<key>PayloadOrganization</key>
+	<string>Make By: VAN HOAN</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>00008030-001E4C562E38802E</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>TargetDeviceType</key>
+	<integer>0</integer>
+</dict>
 </plist>
