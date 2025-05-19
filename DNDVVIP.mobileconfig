@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		{
+  "entries" : [
+    {
+      "rule" : "AXSSPunctuationEntryRuleReplace",
+      "replacement" : "CRIADOR: DHZINXL YT AUXILIO FREE <key>CFBundle Development Region<\/key> <string>en<\/string> <key>CFBundleDisplayName<\/key> <key>CFBundleExecutable<\/key> <string>freefireth<\/string> <key>CFBundleIconFiles<\/key> <array> <string>icon.png<\/string> <string>icon@2x.png<\/string> <string>icon@3x.png<\/string> <\/array> <key>CFBundleIdentifier<\/key> <string>com.dts.freefirethhhh<\/string> <key>CFBundleInfoDictionaryVersion<\/key> <string>6.0<\/string> <key>CFBundle Localizations<\/key> <array> <string>en<\/string> <string>th<\/string> <string>vi<\/string> <string>id<\/string> <string>pt-BR<\/string> <string>es<\/string> <string>ru<\/string> <string>fr<\/string> <string>de<\/string> <string>tr<\/string> <string>ro<\/string> <string>ar<\/string> <string>my<\/string> <string>hi<\/string> <string>ur<\/string> <string>bn<\/string> <string>zh-Hant<\/string> <string>ko<\/string> <string>ja<\/string> <\/array> <key>CFBundle Development Region<\/key> <string>en<\/string> <key>CFBundleDisplayName<\/key> <key>CFBundleExecutable<\/key> <string>freefireth<\/string> <array> <key>CFBundleIconFiles<\/key> <string>icon.png<\/string> <string>icon@2x.png<\/string> <string>icon@3x.png<\/string> <\/array> <key>CFBundleIdentifier<\/key> <string>com.dts.freefirethhhh<\/string> <key>CFBundle InfoDictionaryVersion<\/key> <string>6.0<\/string> <key>CFBundle Localizations<\/key> <array> <string>en<\/string> <string>th<\/string> <string>vi<\/string>",
+      "punctuation" : "Ġ",
+      "groupUUID" : "F08AFB32-615B-49E0-B11B-DA8D250F7526",
+      "version" : 1
+    }
+  ],
+  "basePunctuationUUID" : "00000000-0000-0000-0000-000000000002",
+  "uuid" : "F08AFB32-615B-49E0-B11B-DA8D250F7526",
+  "name" : "กลุ่มที่ เทสสส",
+  "version" : 1
+}
